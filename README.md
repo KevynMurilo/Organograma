@@ -10,7 +10,7 @@ Siga as etapas abaixo para executar o projeto localmente:
 
     bash
 
-git clone https://github.com/seu_usuario/organograma.git
+git clone <https://github.com/KevynMurilo/Organograma.git>
 cd organograma
 
 Instale as dependências:
@@ -51,8 +51,5 @@ organograma/
   ├── package.json
   └── README.md
 
-Autor
 
-    Nome: Kevyn Murilo
-    GitHub: KevynMurilo
 
